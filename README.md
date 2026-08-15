@@ -1,6 +1,7 @@
 # John Potess
 
-I build products around AI, developer tools, and coding-agent workflows.
+I build products around AI, developer tools, and coding-agent
+workflows.
 
 I spent about a decade in frontend and product engineering before leaving my
 Lead Frontend Engineer role to work full time on my own products.
