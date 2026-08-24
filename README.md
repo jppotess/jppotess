@@ -31,30 +31,6 @@ dive spots and 234 destination guides.
 DiveJourney is also my largest proving ground for building and operating a
 production product almost entirely through coding agents.
 
-### Riata
-
-I'm directing and dogfooding a private local control plane for several coding
-agents working on one initiative together.
-
-The core bet is:
-
-**One initiative owns the branch. Agents own temporary work.**
-
-Instead of giving every agent an isolated branch and merging the results
-afterward, Riata coordinates agents inside one shared branch and worktree.
-
-The current system includes durable sessions, exact-path leases,
-actor-attributed brokered commits, isolated agent runtimes, commit-bound review,
-durable findings, and a final independent branch review.
-
-The newer task layer connects specifications, acceptance criteria, expected
-paths, and multiple agent seats to one durable unit of work.
-
-It is still an experiment. The larger system is not finished, and I have not
-yet proven that it beats a strong single-agent workflow on real initiatives.
-
-The repository remains private while I dogfood that question.
-
 ## Writing
 
 I write about what actually happens while working this way: coding agents,
